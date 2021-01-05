@@ -39,3 +39,33 @@ const render = () => {
 export const NoteForm = () => {
     render()
 }
+
+
+
+
+
+
+
+
+/* `<fieldset class="journal-date">
+<label for="journalDate">Date of entry</label>
+<input type="date" name="journalDate" id="./styles/main.css">
+</fieldset>
+<fieldset class="journal-concept">
+<label for="journalConcept">Concepts covered</label>
+<input type="" name="journalConcept" id="./styles/main.css">
+</fieldset>
+<fieldset class="journal-entry">
+<label for="journalEntry">Journal entry</label>
+<input type="entry" name="journalEntry" id="./styles/main.css">
+</fieldset>
+<fieldset class="journal-mood">
+<label for="journalMood">Mood for the day</label>  
+<select id="mood" name="mood">
+    <option value="great">Great</option>
+    <option value="good">good</option>
+    <option value="needs work">Needs work</option>
+</select>
+</fieldset>
+<button type="record journal entry" value="Record Journal Entry">Record Journal Entry</button>
+</section>` */

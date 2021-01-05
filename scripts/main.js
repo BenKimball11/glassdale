@@ -6,8 +6,12 @@ import { ShowNotesButton } from "./notes/ShowNotesButton.js"
 import "./notes/NoteList.js"
 import "./alibis/alibiList.js"
 import "./alibis/ShowAlibiButton.js"
+import { WitnessList } from './witnesses/WitnessList.js';
+import { ShowWitnessButton } from './witnesses/ShowWitnessButton.js';
 
 
+WitnessList()
+ShowWitnessButton()
 ShowNotesButton()
 OfficerSelect()
 CriminalList()
