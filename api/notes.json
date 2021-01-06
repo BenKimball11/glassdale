@@ -1,11 +1,11 @@
 {
-    "notes": [
-        {
-        "timestamp": "02/23/20",
-        "author": "Fred Spangle",
-        "text": "This supsect is mean",
-        "suspect": "Farley Jones",
-        "id": 1
+  "notes": [
+    {
+      "author": "Ben",
+      "text": "test",
+      "criminalId": 3,
+      "timestamp": 1609967029366,
+      "id": 1
     }
- ]
-} 
+  ]
+}
